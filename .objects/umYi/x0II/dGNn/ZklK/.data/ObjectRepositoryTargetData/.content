@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LXleEQiJZEe90UL0SW1Giw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.in/search" CVScreenId="562f1b87-46c6-4ab1-833f-3b133eaeb45a" CvTextArea="1031, 497, 50, 18" CvType="AnyWordGroup" DesignTimeRectangle="1033, 497, 48, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_dc' tag='SPAN' type='' class='' /&gt;" Guid="aadd20e3-657e-4c52-b073-2bfca98592ad" ScopeSelectorArgument="&lt;html app='msedge.exe' title='patna weather - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4a47c349738b470a83305eb119b46192.png" xmlns="">0B9IRpT3hHk2XUHEhQBXfmA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

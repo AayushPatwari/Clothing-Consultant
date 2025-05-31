@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Temperature",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2be1CY4Y8Ue7C0TQEPPAww",
+  "Reference": "Z7vv72ZrLUqXqjy7C6sBxw/2be1CY4Y8Ue7C0TQEPPAww",
+  "ParentRef": "Z7vv72ZrLUqXqjy7C6sBxw/dGNng4zZuk-YHd2A50Zo2Q",
+  "Created": "2025-03-23T17:04:04.9252738Z",
+  "Updated": "2025-03-23T17:04:04.9252738Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
